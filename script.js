@@ -69,7 +69,7 @@ function showWish() {
   animateFireworks();
 
   document.getElementById("wish").innerHTML =
-    "❤️ My Dear " + Pravs + ",<br><br>" +
+    "❤️ My Dear " + name + ",<br><br>" +
     "This New Year, I wish for more smiles with you,<br>" +
     "more memories together, and more love than ever 💖<br>" +
     "Koncham Kopam Thaginchukoni Manchiga Vundu bey natho.<br>" +
